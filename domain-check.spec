@@ -9,7 +9,6 @@ Source0:	http://prefetch.net/code/domain-check.bz2
 Patch0:		domain-check-1.3-whois.diff
 Requires:	whois
 BuildArch:	noarch
-BuildRoot:	%{_tmppath}/%{name}-%{version}-buildroot
 
 %description
 domain-check is a utility for checking DNS domain expiration dates. domain-check
