@@ -12,9 +12,9 @@ BuildArch:	noarch
 BuildRoot:	%{_tmppath}/%{name}-%{version}-buildroot
 
 %description
-domain-check is a utility for checking DNS domain expiration dates. domain-check
-queries WHOIS data in realtime, and can be integrated with cron to provide
-e-mail notifications prior to a domain expiring.
+domain-check is a utility for checking DNS domain expiration dates. domain-
+check queries WHOIS data in realtime, and can be integrated with cron to
+provide e-mail notifications prior to a domain expiring.
 
 %prep
 
