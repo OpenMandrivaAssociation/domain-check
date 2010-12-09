@@ -1,7 +1,7 @@
 Summary:	DNS domain expiration checker
 Name:		domain-check
 Version:	1.3
-Release:	%mkrel 4
+Release:	%mkrel 5
 License:	BSD-like
 Group:		Monitoring
 URL:		http://prefetch.net/code/domain-check.html
