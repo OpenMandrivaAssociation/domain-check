@@ -1,0 +1,11 @@
+--- domain-check	2006-08-22 12:08:34.000000000 +0200
++++ domain-check.oden	2006-08-22 15:31:28.000000000 +0200
+@@ -98,7 +98,7 @@
+ 
+ # Location of system binaries
+ AWK="/bin/awk"
+-WHOIS="/bin/whois"
++WHOIS="/usr/bin/whois"
+ DATE="/bin/date"
+ 
+ # Place to stash temporary files
