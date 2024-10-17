@@ -4,7 +4,7 @@ Version:	1.3
 Release:	6
 License:	BSD-like
 Group:		Monitoring
-URL:		http://prefetch.net/code/domain-check.html
+URL:		https://prefetch.net/code/domain-check.html
 Source0:	http://prefetch.net/code/domain-check.bz2
 Patch0:		domain-check-1.3-whois.diff
 Requires:	whois
